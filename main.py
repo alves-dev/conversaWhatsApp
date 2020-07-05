@@ -1,7 +1,7 @@
 # -*- coding: <UTF-8> -*-
 import lerConversa as con
 
-conversa = con.Conversa(fileConversa="ConversaMa.txt")
+conversa = con.Conversa(fileConversa="Conversa.txt")
 conversa.identificarEnvolvidos()
 
 conversa.deletarLinhas()

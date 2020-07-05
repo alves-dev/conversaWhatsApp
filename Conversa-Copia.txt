@@ -1,0 +1,6 @@
+29/10/19 09:23 - p1: Bom dia
+29/10/19 09:26 - p1: como esta ?
+29/10/19 09:42 - p2: Bom dia
+29/10/19 09:42 - p2: como posso ajudar ?
+29/10/19 09:42 - p1: problema...
+29/10/19 09:42 - p2: um minuto...
